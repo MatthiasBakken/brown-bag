@@ -26,7 +26,7 @@ tags:
 schemes:
 - http
 paths:
-  /petChange:
+  /pet:
     post:
       tags:
       - pet
